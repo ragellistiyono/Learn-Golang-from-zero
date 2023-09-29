@@ -1,0 +1,20 @@
+go 1.20
+
+use (
+    ./01_hello-world
+    ./02_komentar
+    ./03_variabel
+    ./04_constant
+    ./05_type_declaration
+    ./06_operator_mtk
+    ./07_operator_perbandingan
+    ./08_If_elseif
+    ./09_switch_case
+    ./10_perulangan
+    ./11_Array
+    ./12_slice
+    ./13_map
+    ./14_fungsi
+    ./14_Fungsi_Parameter
+    ./14_Fungsi_return_value
+    )
