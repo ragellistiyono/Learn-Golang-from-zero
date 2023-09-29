@@ -17,4 +17,7 @@ use (
     ./14_fungsi
     ./14_Fungsi_Parameter
     ./14_Fungsi_return_value
+    ./14_Fungsi_return_multiples_value
+    ./14_Fungsi_named_return_value
+    ./14_fungsi_Variadic
     )
